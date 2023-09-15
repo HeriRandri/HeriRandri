@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Power Randri from Mada, I 'm really learning langage and Framework.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeriRandri&show_icons=true&theme=radical)
-
+https://github.com/EddieHubCommunity/awesome-github-profiles.git
 <!--
 **HeriRandri/HeriRandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
