@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Power Randri from Mada, I 'm really learning langage and Framework.
+I'm Nandrianina from Mada, I 'm really learning langage and Framework.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeriRandri&show_icons=true&theme=radical)
 
 <!--
